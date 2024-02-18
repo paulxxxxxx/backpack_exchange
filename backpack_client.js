@@ -10,8 +10,8 @@ const qs_1 = __importDefault(require("qs"));
 const ws_1 = __importDefault(require("ws"));
 const BACKOFF_EXPONENT = 1.5;
 const DEFAULT_TIMEOUT_MS = 5000;
-// const BASE_URL = "https://api.backpack.exchange/";
-const BASE_URL = "https://api.cf.backpack.exchange/";
+const BASE_URL = "https://api.backpack.exchange/";
+//const BASE_URL = "https://api.cf.backpack.exchange/";
 // 执行对应操作的命令
 const instructions = {
     public: new Map([

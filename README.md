@@ -16,7 +16,8 @@ ps: 如想交易 $JUP ，就运行 node index_jup.js
 
  没node的安装一下 这是教程：https://www.runoob.com/nodejs/nodejs-install-setup.html
 
- backpack 刷交易量 JavaScript 只刷sol/usdc
+ backpack 刷交易量 JavaScript 源码只刷sol/usdc，我改了以后可以刷 $JUP 
+ 在源码基础上增加了详细的解释
  注意事项：他们官网的api太多人用比较卡，可能在交易的时候会卡住，需要自己手动停止程序，重新运行
 
  ![image](https://github.com/catsats/backpack_exchange/assets/154321884/61503391-05ad-44d3-a121-6e6393907245)

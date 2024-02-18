@@ -8,8 +8,11 @@
 
 ps: 如想交易 $JUP ，就运行 node index_jup.js
 
- 先用我的邀请码注册backpack交易所：https://backpack.exchange/signup?referral=9ed76787-d966-4122-9a58-cd93d3a44de3
- 不会的用脚本的可以推特私信问我 https://twitter.com/zisan_xyz
+可以用我的邀请码注册 https://backpack.exchange/refer/6ae5687c-381d-484b-ac04-f2a2539fac53
+
+也可以用源码大神zisan_xyz的邀请码注册backpack交易所：https://backpack.exchange/signup?referral=9ed76787-d966-4122-9a58-cd93d3a44de3
+
+不会的用脚本的可以推特私信问大神： https://twitter.com/zisan_xyz
 
  没node的安装一下 这是教程：https://www.runoob.com/nodejs/nodejs-install-setup.html
 

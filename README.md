@@ -7,6 +7,7 @@
  后运行 node ./index.js
 
 ps: 如想交易 $JUP ，就运行 node index_jup.js
+担心有账户风险的话，就刷完把api key关掉
 
 可以用我的邀请码注册 https://backpack.exchange/refer/6ae5687c-381d-484b-ac04-f2a2539fac53
 
